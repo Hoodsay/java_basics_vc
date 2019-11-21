@@ -2,7 +2,3 @@ Hello, GIT!
 It's wonderfull!
 
 Yes, it is!
-
-some content here
-and here
-_________________
