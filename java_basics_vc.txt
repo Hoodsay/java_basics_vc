@@ -6,3 +6,6 @@ Yes, it is!
 some content here
 and here
 _________________
+
+здесь две строки
+закоммитаю в мастере
