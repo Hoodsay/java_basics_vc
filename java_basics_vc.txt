@@ -1,4 +1,4 @@
-Hello, GIT!
+﻿Hello, GIT!
 It's wonderfull!
 
 Yes, it is!
@@ -15,3 +15,5 @@ _________________
 надо так вот
 
 for tag only
+
+from notebook
